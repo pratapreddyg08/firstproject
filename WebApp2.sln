@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp2", "WebApp2\WebApp2.csproj", "{CD707077-D0CE-4E9B-935C-5C15B0272513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDAL", "StudentDAL\StudentDAL.csproj", "{A08B6E74-E6D3-4941-870C-0A76F7EE1201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentBLL", "StudentBLL\StudentBLL.csproj", "{5A56A066-50D4-4BEF-8FE2-2507FE53CDC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD707077-D0CE-4E9B-935C-5C15B0272513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD707077-D0CE-4E9B-935C-5C15B0272513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD707077-D0CE-4E9B-935C-5C15B0272513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD707077-D0CE-4E9B-935C-5C15B0272513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A08B6E74-E6D3-4941-870C-0A76F7EE1201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08B6E74-E6D3-4941-870C-0A76F7EE1201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08B6E74-E6D3-4941-870C-0A76F7EE1201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08B6E74-E6D3-4941-870C-0A76F7EE1201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A56A066-50D4-4BEF-8FE2-2507FE53CDC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A56A066-50D4-4BEF-8FE2-2507FE53CDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A56A066-50D4-4BEF-8FE2-2507FE53CDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A56A066-50D4-4BEF-8FE2-2507FE53CDC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66A9E6A6-1733-4384-8EA7-02CB2A7B9B32}
+	EndGlobalSection
+EndGlobal
