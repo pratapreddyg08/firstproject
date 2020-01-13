@@ -34,5 +34,9 @@ namespace StudentBLL
             ClsDataLayer objDAL = new ClsDataLayer();
              objDAL.deletestudent(Id);
         }
+        public void ABCCD()
+        {
+
+        }
     }
 }
